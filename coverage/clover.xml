@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1652201464590" clover="3.2.0">
+  <project timestamp="1652201464590" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4" elements="18" coveredelements="18" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="main.ts" path="C:\Users\dpwra\code\codewars\src\main.ts">
+      <metrics statements="13" coveredstatements="13" conditionals="1" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <line num="6" count="7" type="stmt"/>
+      <line num="7" count="7" type="stmt"/>
+      <line num="8" count="7" type="stmt"/>
+      <line num="11" count="7" type="stmt"/>
+      <line num="12" count="17" type="stmt"/>
+      <line num="13" count="17" type="stmt"/>
+      <line num="16" count="7" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="23" count="7" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>

@@ -1,0 +1,21 @@
+{
+	"name": "codewars",
+	"private": true,
+	"version": "0.0.0",
+	"scripts": {
+		"dev": "vite",
+		"build": "tsc && vite build",
+		"preview": "vite preview",
+		"test": "jest --watchAll --verbose --coverage"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.17.9",
+		"@babel/preset-env": "^7.16.11",
+		"@babel/preset-typescript": "^7.16.7",
+		"@types/jest": "^27.4.1",
+		"babel-jest": "^28.0.2",
+		"ts-jest": "^27.1.4",
+		"typescript": "^4.5.4",
+		"vite": "^2.9.5"
+	}
+}
