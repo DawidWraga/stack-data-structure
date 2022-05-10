@@ -1,6 +1,6 @@
 # stack-data-structure
 
-Task: Program stack data structure without using built in array methods (pop / push)
+Task: program stack data structure without using built in array methods (pop / push)
 
 Implemented using TypeScript and tested using Jest.
 
